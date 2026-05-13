@@ -1,0 +1,6 @@
+[submodule "concert-back"]
+	path = concert-back
+	url = https://github.com/roxaneKocora/JaxRSOpenAPI.git
+[submodule "concert-front"]
+	path = concert-front
+	url = https://github.com/roxaneKocora/Concert_front.git
